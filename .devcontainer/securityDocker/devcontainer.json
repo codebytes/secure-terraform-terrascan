@@ -9,10 +9,7 @@
 				"GitHub.vscode-pull-request-github",
 				"streetsidesoftware.code-spell-checker",
 				"hashicorp.terraform",
-				"ms-azuretools.vscode-azureterraform",
-				"tfsec.tfsec",
-				"Bridgecrew.checkov",
-				"aquasecurityofficial.trivy-vulnerability-scanner"
+				"ms-azuretools.vscode-azureterraform"
 			]
 		}
 	},
